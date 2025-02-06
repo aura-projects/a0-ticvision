@@ -1,0 +1,85 @@
+{
+  "auth": {
+    "methods": [],
+    "provider": "supabase",
+    "required": false,
+    "organization": {
+      "type": "single_user",
+      "teams": false,
+      "workspaces": false
+    }
+  },
+  "theme": {
+    "font": "Roboto",
+    "colors": {
+      "dark": {
+        "dim": "#5E626B",
+        "card": "#15191e",
+        "info": "#54c7ec",
+        "error": "#ff6b6b",
+        "accent": "#f0cfc7",
+        "border": "#2A303C",
+        "inverse": "#FFFFFF",
+        "neutral": "#7c7194",
+        "primary": "#c7e8f0",
+        "success": "#87cf3a",
+        "warning": "#f7c325",
+        "base-100": "#1d232a",
+        "base-200": "#191e24",
+        "base-300": "#15191e",
+        "secondary": "#4f8a9b",
+        "background": "#060606",
+        "base-content": "#FFFFFF",
+        "color-scheme": "dark",
+        "info-content": "#000000",
+        "error-content": "#000000",
+        "accent-content": "#000000",
+        "inverse-content": "#000000",
+        "neutral-content": "#FFFFFF",
+        "primary-content": "#000000",
+        "success-content": "#000000",
+        "warning-content": "#000000",
+        "secondary-content": "#FFFFFF"
+      },
+      "light": {
+        "dim": "#878A90",
+        "card": "#E5E6E6",
+        "info": "#3ABFF8",
+        "error": "#F87272",
+        "accent": "#f0cfc7",
+        "border": "#E5E7EB",
+        "inverse": "#000000",
+        "neutral": "#7c7194",
+        "primary": "#c7e8f0",
+        "success": "#36D399",
+        "warning": "#FBBD23",
+        "base-100": "#FFFFFF",
+        "base-200": "#F2F2F2",
+        "base-300": "#E5E6E6",
+        "secondary": "#4f8a9b",
+        "background": "#FFFFFF",
+        "base-content": "#1F2937",
+        "color-scheme": "light",
+        "info-content": "#FFFFFF",
+        "error-content": "#FFFFFF",
+        "accent-content": "#000000",
+        "inverse-content": "#FFFFFF",
+        "neutral-content": "#FFFFFF",
+        "primary-content": "#000000",
+        "success-content": "#FFFFFF",
+        "warning-content": "#FFFFFF",
+        "secondary-content": "#FFFFFF"
+      }
+    },
+    "isDarkMode": false
+  },
+  "basics": {
+    "icon": null,
+    "name": "TicVision",
+    "slug": "ticvision",
+    "description": "TicVision - Your Personalized Tic Tracking Companion\n\nTicVision is a free web app designed to help individuals with Tourette’s Syndrome track, understand, and manage their tics more effectively. With features like Tic Tracking, Data Visualization, Personalized Suggestions, and Tic Education, TicVision empowers users to take control of their tic patterns and gain valuable insights over time.\n\nKey Features:\n✅ Tic Tracking – Log your tics quickly by selecting the type, rating its intensity (1-10), and tagging the time of day (morning, afternoon, evening, night or all day). This process is designed to take just a few seconds per log.\n\n📊 Data Visualization – Once you've logged enough data, view your tic patterns and trends through intuitive graphs and tables under the ‘History’ section. Switch between Total Intensity, Average Intensity, and Number of Tics to analyze changes over time.\n\n💡 Personalized Suggestions – Get AI-powered recommendations based on your tic patterns, helping you explore techniques that may reduce tic severity or frequency.\n\n📖 Tic Education – Learn more about different types of tics with concise descriptions to help you better understand your condition."
+  },
+  "monetization": {
+    "plans": {}
+  }
+}

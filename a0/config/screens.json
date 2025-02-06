@@ -1,0 +1,76 @@
+{
+  "screens": [
+    {
+      "name": "Welcome",
+      "componentName": "WelcomeScreen",
+      "is_navbar": true,
+      "icon": {
+        "focused": "home-outline",
+        "unfocused": "home-outline"
+      }
+    },
+    {
+      "name": "QuickLog",
+      "componentName": "QuickLogScreen",
+      "is_navbar": true,
+      "icon": {
+        "focused": "plus-circle",
+        "unfocused": "plus-circle"
+      }
+    },
+    {
+      "name": "TicHistory",
+      "componentName": "TicHistoryScreen",
+      "is_navbar": true,
+      "icon": {
+        "focused": "bar-chart-2",
+        "unfocused": "bar-chart-2"
+      }
+    },
+    {
+      "name": "Insights",
+      "componentName": "InsightsScreen",
+      "is_navbar": true,
+      "icon": {
+        "focused": "bulb",
+        "unfocused": "bulb"
+      }
+    },
+    {
+      "name": "TicEducation",
+      "componentName": "TicEducationScreen",
+      "is_navbar": false,
+      "icon": {
+        "focused": "book-open",
+        "unfocused": "book-open"
+      }
+    },
+    {
+      "name": "OnboardingWizard",
+      "componentName": "OnboardingWizardScreen",
+      "is_navbar": false,
+      "icon": {
+        "focused": "help-circle",
+        "unfocused": "help-circle"
+      }
+    },
+    {
+      "name": "Personalized Suggestions",
+      "componentName": "Personalized SuggestionsScreen",
+      "is_navbar": false,
+      "icon": {
+        "focused": "add",
+        "unfocused": "add"
+      }
+    },
+    {
+      "name": "TicData",
+      "componentName": "TicDataScreen",
+      "is_navbar": false,
+      "icon": {
+        "focused": "info",
+        "unfocused": "info"
+      }
+    }
+  ]
+}
